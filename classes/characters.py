@@ -36,8 +36,8 @@ class User1(Characters):
         # Keep player on the left half of screen
         if self.rect.left < 0:
             self.rect.left = 0
-        if self.rect.right > 400:
-            self.rect.right = 400   
+        if self.rect.right > 450:
+            self.rect.right = 450   
         if self.rect.top <= 0:
             self.rect.top = 0   
         if self.rect.bottom >= 600:
@@ -62,8 +62,8 @@ class User2(Characters):
             self.rect.move_ip(0, 5)
 
         # Keep player on right half of screen
-        if self.rect.left < 400:
-            self.rect.left = 400
+        if self.rect.left < 450:
+            self.rect.left = 450
         if self.rect.right > 800:
             self.rect.right = 800
         if self.rect.top <= 0:
