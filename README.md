@@ -28,6 +28,7 @@ I made the snowballs and background using Paint.
 - Update game font as its a bit fuzzy
 - Occasionally more bullets appear on one side of the screen, might need to implement the snowball timer separately on each side of the screen
 - Add sound effects for when a user is hit
+- Add error handling
 
 ## How to Install and run
 - Download files
