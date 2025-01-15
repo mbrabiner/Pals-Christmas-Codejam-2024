@@ -20,9 +20,9 @@ The game is organized into classes
 The penguins, music, and font were all free and could be found on the internet.
 I made the snowballs and background using Paint.
 
-### Improvements
-- If I had more time I would refine the background as it was only meant to be a starting point
-- I would also make the screen bigger as this was feedback from my brother
+### Future improvements and features
+- Refine the background as it was only meant to be a starting point
+- Make the screen bigger as this was feedback from my brother
 - A lives system could be implemented
 - Allow users to mute the sound
 - Update game font as its a bit fuzzy
